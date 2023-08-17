@@ -1,0 +1,19 @@
+{
+  "name": "node-soap",
+  "version": "1.0.0",
+  "description": "SOAP request in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jenntenem/node-soap.git"
+  },
+  "author": "Jenniffer Tenempaguay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenntenem/node-soap/issues"
+  },
+  "homepage": "https://github.com/jenntenem/node-soap#readme"
+}
